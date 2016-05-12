@@ -1,5 +1,5 @@
 # Poseidon
-With Poseidon I manage places I like in Paris. Looks like another of my projects, [eOli](https://github.com/jebarjonet/eOli), but it is now a cleaner and more powerful in managing places, using **MeteorJS**. However compared to *eOli* there is no searching or filtering, only a raw bunch of places on a map.
+With Poseidon I manage places I like in Paris. Looks like another of my projects, [eOli](https://github.com/jebarjonet/eOli), but it is cleaner, more powerful for managing places and it is using **MeteorJS**. However compared to *eOli* there is no searching or filtering, only a raw bunch of places on a map.
 
 ## Technologies
 - [Meteor 1.3.2.4](https://meteor.com/)
